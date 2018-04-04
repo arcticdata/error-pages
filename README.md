@@ -1,2 +1,2 @@
 # error_pages
-datarc.cn error pages.
+Error pages for [datarc.cn](https://datarc.cn).
