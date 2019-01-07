@@ -7,6 +7,7 @@ url = "https://mirrors.aliyun.com/pypi/simple"
 python_version = "3.6"
 
 [dev-packages]
+pyyaml = "==4.2b4"
 
 [packages]
 qingstor-sdk = "*"
