@@ -1,4 +1,6 @@
 # error-pages
+**Deprecated. Use [resource/pages/]() instead.**
+
 Error pages for [datarc.cn](https://datarc.cn).
 
 #### Examples
