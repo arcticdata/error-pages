@@ -1,5 +1,5 @@
 # error-pages
-**Deprecated. Use [resource/pages/]() instead.**
+**Deprecated. Use [resource/pages/](https://github.com/arcticdata/resource/tree/master/resource/pages) instead.**
 
 Error pages for [datarc.cn](https://datarc.cn).
 
